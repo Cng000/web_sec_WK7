@@ -23,19 +23,7 @@ Time spent: **10** hours spent in total
     - [Vulnerability DB](https://wpvulndb.com/vulnerabilities/8186)
     - [Source Code](https://github.com/WordPress/WordPress/commit/f72b21af23da6b6d54208e5c1d65ececdaa109c8)
 
-2. SQLI 
-  - [X] Summary: 
-    - Vulnerability types: SQLI 
-    - Tested in version: 4.2
-    - Fixed in version: 4.6
-  - [X] GIF Walkthrough: 
-    <!--- ![2](/gif/.gif?raw=true)-->
-  - [X] Steps to recreate: 
-  - [X] Affected source code:
-    <!--- [Source Code]()-->
-
-
-3. Persisten CSRF 
+2. Persisten CSRF 
   - [X] Summary: 
     - Vulnerability types: CSRF 
     - Tested in version: 4.2
@@ -54,7 +42,7 @@ Time spent: **10** hours spent in total
     - CVE = CVE-2015-3440
     - [Source](https://www.exploit-db.com/exploits/36844/)	
 
-4. User Enumeration
+3. User Enumeration
   - [X] Summary: 
     - Vulnerability types: 
     - Tested in version: 4.2
@@ -67,7 +55,7 @@ Time spent: **10** hours spent in total
     3. WP 4.2 is giving the information whether a username is valid
     4. After learning the username you can brute force the password
 
-5. Privilage Escalation 
+4. Privilage Escalation 
   - [X] Summary: 
     - Vulnerability types: privilage escalation 
       - plugin: Extra user details	
